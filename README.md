@@ -3,7 +3,7 @@
 This compilation comprises solutions for the Web Development Coding Games, offering a structured approach to instructing fundamental to advanced concepts in CSS, JavaScript, and other related topics.
 
 
-###The Websites-
+**The Websites-**
 
 1. Flexbox Froggy- https://flexboxfroggy.com
 
